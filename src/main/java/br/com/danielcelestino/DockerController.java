@@ -136,4 +136,7 @@ public class DockerController {
  * 2) Parando tudo
  * docker-compose down
  * 
+ * 3) Listando os containers relacionados ao docker-compose
+ * docker-compose ps
+ * 
  */
