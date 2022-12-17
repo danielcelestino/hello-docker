@@ -124,4 +124,16 @@ public class DockerController {
  * 
  * 25) Vendo imagens do sistema
  * docker system df
+ * 
+ * 
+ * 
+ * ##################
+ * Docker Compose
+ * 1) rodando arquivo yml (na pasta do aruivo no power shel)
+ * docker-compose up
+ * docker-compose up -d
+ * 
+ * 2) Parando tudo
+ * docker-compose down
+ * 
  */
